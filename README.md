@@ -18,3 +18,6 @@
 ![image](https://github.com/Hushbin/demo-tst/assets/92392955/1128dc5d-f4e6-4a4f-85fc-af0445ddf8af)
 
 ## Скриншот с финальным снапшотом тестовой машины
+
+![image](https://github.com/Hushbin/demo-tst/assets/92392955/108a8c32-914c-464c-a83e-f58e37c4f406)
+
