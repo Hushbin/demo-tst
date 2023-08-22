@@ -10,6 +10,6 @@
 
 ![image](https://github.com/Hushbin/demo-tst/assets/92392955/4f060361-4de9-4ceb-b130-ee8b36eae7d6)
 
-## Скриншот, подтверждающий, что докер установлен и запущен
+## Вывод команды, подтверждающей что сервис докера запущен (Скриншот)
 
 ![image](https://github.com/Hushbin/demo-tst/assets/92392955/1128dc5d-f4e6-4a4f-85fc-af0445ddf8af)
