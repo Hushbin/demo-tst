@@ -1,6 +1,6 @@
 # Menu
 
-- SSH Pubkey ED25519
+- [SSH Pubkey ED25519](https://github.com/Hushbin/demo-tst/blob/main/README.md#ssh-pubkey-ed25519)
 - Скриншот, подтверждающий, что я успешно подключился к тестовой машине
 
 ## SSH Pubkey ED25519
